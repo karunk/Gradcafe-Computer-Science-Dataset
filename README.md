@@ -1,7 +1,6 @@
-#GRADCAFE DATA (2014 - Present)
+###GRADCAFE DATA (2014 - Present)
 
-Repository contains all results from gradcafe for the query `Computer Science`
-in the file `gradcafe.csv`
+[Link to dataset](https://www.kaggle.com/karun95/gradcafe-computer-science-results)
 
 Repository also includes the script used to generate this dataset.
 
