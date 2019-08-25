@@ -1,0 +1,3 @@
+BASE_URL: 'https://www.thegradcafe.com/survey/index.php'
+PAGE_LIMIT: 174
+COURSE: "Computer Science"
